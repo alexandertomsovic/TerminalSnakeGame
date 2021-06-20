@@ -1,5 +1,10 @@
-**This project was created for High Tech Hacks 2021
-****To play the Snake game: 
+This project was created for High Tech Hacks 2021
+.
+.
+.
+.
+.
+To play the Snake game: 
   Download the game file to desktop.
   Initialize a powershell terminal. 
   Run the code: python HighTechHackathon.py
